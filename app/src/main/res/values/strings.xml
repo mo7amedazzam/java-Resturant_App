@@ -1,0 +1,48 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Restaurant</string>
+    <string name="buy">Buy</string>
+
+    <string-array name="n_Meal">
+        <item>Meals</item>
+        <item>Drinks</item>
+        <item>Salad</item>
+        <item>sandwich</item>
+    </string-array>
+
+    <string-array name="ingredients_burgar">
+        <item></item>
+        <item>Beef Burgar</item>
+        <item>Smoky Burgar</item>
+        <item>Chicken Burgar</item>
+        <item>Classic Bugrar</item>
+        <item>Bison Bugrar</item>
+        <item>Pesto Bugrar</item>
+        <item>Turkey Bugrar</item>
+    </string-array>
+    <string-array name="Price_burgar">
+        <item>4.00$</item>
+        <item>5.50$</item>
+        <item>3.00$</item>
+        <item>6.00$</item>
+        <item>5.20$</item>
+        <item>3.90$</item>
+        <item>2.60$</item>
+
+    </string-array>
+
+    <string-array name="ingredientsburgar">
+        <item>slices Cheddar,tomato, lettuce,egg,white
+            rolls</item>
+        <item>Spicy sauce,lettuce,cheese,egg</item>
+        <item>slices cheddar,lettuce,small onion,olive ,ground chicken</item>
+        <item>egg,onion,tomato,leaves,onion,ketchup,hot sauce</item>
+        <item>egg,onion,tomato,leaves,onion,ketchup,hot sauce</item>
+        <item>bison,lettuce,sweet pepper,Slide chees,Potato</item>
+        <item>ketchup,onion,sauce,Tomato,slices cheddar,olive</item>
+    </string-array>
+
+
+
+
+
+</resources>
